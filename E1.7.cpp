@@ -5,8 +5,11 @@ Instructor: Tong Yi
 Assignment: HW E1.7
 This program will make you input three names and will print them out on 3 separate lines.
 */
+#include<iostream>
+using namespace std;
+int main(){
     string name1, name2, name3; 
-    cout << "List first name: "; //User input for three different names
+    cout << "List first name: "; 
     cin >> name1;
     cout << "List second name: ";
     cin >> name2;
