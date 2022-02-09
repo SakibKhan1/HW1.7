@@ -1,5 +1,5 @@
-#include <iostream>
 //input three names and will print those names out in 3 separate lines.
+#include <iostream>
 using namespace std;
 
 int main()
